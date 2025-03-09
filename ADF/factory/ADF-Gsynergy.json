@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Gsynergy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5dff7163-2f5e-48dc-bb86-4050f4a45be2",
+		"tenantId": "b20a3b22-67a4-4ba2-999b-84b7a4f062a6"
+	}
+}
